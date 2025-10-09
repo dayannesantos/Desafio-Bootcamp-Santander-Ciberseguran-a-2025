@@ -1,4 +1,4 @@
-# Desafio Bootcamp – Exploração do Metasploitable 2 com Kali Linux & Medusa
+# Exploração do Metasploitable 2 com Kali Linux & Medusa
 
 ## Objetivos do Projeto
 
